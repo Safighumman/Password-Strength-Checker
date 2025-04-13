@@ -1,0 +1,7 @@
+Enter a password to check: MyP@ssword2024!
+Score: 55/100
+Strength: ⚠️ Moderate
+
+Suggestions:
+- Avoid common words like "password"
+- Use a longer password (12+ characters)
